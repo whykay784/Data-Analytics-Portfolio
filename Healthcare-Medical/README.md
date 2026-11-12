@@ -1,4 +1,5 @@
-# Healthcare Data Analysis
+# 📊 SQL Portfolio Analytics
 
-This project uses SQL to analyse healthcare data, identify patterns, and generate insights that support data-driven healthcare decisions.
+## Overview
 
+This repository contains SQL analytics projects completed using Google BigQuery Public Datasets. The projects demonstrate advanced SQL querying, business intelligence reporting, and data-driven decision making across Healthcare industry.
