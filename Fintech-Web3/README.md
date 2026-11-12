@@ -2,11 +2,11 @@
 
 ## Overview
 
-This repository contains SQL analytics projects completed using Google BigQuery Public Datasets. The projects demonstrate advanced SQL querying, business intelligence reporting, and data-driven decision making across multiple industries.
+This repository contains SQL analytics projects completed using Google BigQuery Public Datasets. The projects demonstrate advanced SQL querying, business intelligence reporting, and data-driven decision making across fintech industry.
 
 ---
 
-# 🏦 Project 1: Fintech & Web3 Analytics
+# 🏦 Project Topic: Fintech & Web3 Analytics
 
 ## Problem Statement
 
